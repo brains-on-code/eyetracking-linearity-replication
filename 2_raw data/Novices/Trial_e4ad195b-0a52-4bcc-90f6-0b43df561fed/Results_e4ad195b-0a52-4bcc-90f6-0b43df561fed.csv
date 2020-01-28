@@ -1,0 +1,9 @@
+Number;Snippet;Indentation;Result;Time;TimeOut;SubjectID
+0;Student_scrambled;4;26;51021;False;e4ad195b-0a52-4bcc-90f6-0b43df561fed
+1;SignChecker;4;positive null;64164;False;e4ad195b-0a52-4bcc-90f6-0b43df561fed
+2;Calculation_scrambled;4;8;113701;False;e4ad195b-0a52-4bcc-90f6-0b43df561fed
+3;Rectangle;4;100 25;83471;False;e4ad195b-0a52-4bcc-90f6-0b43df561fed
+4;Vehicle;4;10;76110;False;e4ad195b-0a52-4bcc-90f6-0b43df561fed
+5;MoneyClass;4;1,40;32168;False;e4ad195b-0a52-4bcc-90f6-0b43df561fed
+6;Street_scrambled;4;null;173910;False;e4ad195b-0a52-4bcc-90f6-0b43df561fed
+

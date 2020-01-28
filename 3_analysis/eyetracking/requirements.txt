@@ -1,0 +1,8 @@
+matplotlib
+minineedle
+numpy
+pandas
+Pillow
+researchpy
+scipy
+seaborn

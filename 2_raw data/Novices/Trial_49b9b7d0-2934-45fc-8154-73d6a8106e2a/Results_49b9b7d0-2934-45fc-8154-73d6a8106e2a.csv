@@ -1,0 +1,9 @@
+Number;Snippet;Indentation;Result;Time;TimeOut;SubjectID
+0;Student;4;26;30212;False;49b9b7d0-2934-45fc-8154-73d6a8106e2a
+1;Calculation;4;8;85993;False;49b9b7d0-2934-45fc-8154-73d6a8106e2a
+2;Vehicle;4;10;67062;False;49b9b7d0-2934-45fc-8154-73d6a8106e2a
+3;Rectangle;4;100 \n 25;91355;False;49b9b7d0-2934-45fc-8154-73d6a8106e2a
+4;SignChecker_scrambled;4;Er kompiliert nicht, weil keine Methode check() existiert.;108325;False;49b9b7d0-2934-45fc-8154-73d6a8106e2a
+5;MoneyClass_scrambled;4;1,40;68637;False;49b9b7d0-2934-45fc-8154-73d6a8106e2a
+6;Street_scrambled;4;15;50362;False;49b9b7d0-2934-45fc-8154-73d6a8106e2a
+

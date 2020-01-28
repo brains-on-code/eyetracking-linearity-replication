@@ -1,0 +1,45 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: HorizontalLater ~ Expert + Scrambled + Linearity + (1 | Participant)
+   Data: eyetracking_df
+
+REML criterion at convergence: -850.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.8685 -0.6233 -0.0148  0.5611  5.0076 
+
+Random effects:
+ Groups      Name        Variance Std.Dev.
+ Participant (Intercept) 0.001023 0.03198 
+ Residual                0.002429 0.04929 
+Number of obs: 298, groups:  Participant, 31
+
+Fixed effects:
+               Estimate Std. Error t value
+(Intercept)    0.256158   0.012189  21.015
+ExpertTrue    -0.035001   0.013222  -2.647
+ScrambledTrue -0.021198   0.006242  -3.396
+LinearityB    -0.012773   0.009162  -1.394
+LinearityC    -0.015320   0.009169  -1.671
+LinearityD    -0.037452   0.009071  -4.129
+LinearityE    -0.039748   0.009099  -4.369
+
+Correlation of Fixed Effects:
+            (Intr) ExprtT ScrmbT LnrtyB LnrtyC LnrtyD
+ExpertTrue  -0.680                                   
+ScrambledTr -0.170  0.010                            
+LinearityB  -0.385  0.007 -0.017                     
+LinearityC  -0.394  0.007  0.041  0.508              
+LinearityD  -0.408  0.019  0.042  0.514  0.516       
+LinearityE  -0.392  0.015 -0.028  0.512  0.510  0.519
+> 
+> Anova(lmm)
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: HorizontalLater
+            Chisq Df Pr(>Chisq)    
+Expert     7.0081  1  0.0081143 ** 
+Scrambled 11.5340  1  0.0006833 ***
+Linearity 28.3064  4  1.081e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

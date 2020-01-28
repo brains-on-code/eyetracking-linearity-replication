@@ -1,0 +1,131 @@
+{
+  "execution_order": [1, 9, 10, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13],
+  "story_order": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+  "1050": {
+    "base_x": 472,
+    "base_y": 256,
+    "base_indent_x": 52,
+    "base_indent_y": 28
+  },
+  "1050_scrambled": {
+    "base_x": 475,
+    "base_y": 257,
+    "base_indent_x": 52,
+    "base_indent_y": 28
+  },
+  "1080": {
+    "base_x": 575,
+    "base_y": 266,
+    "base_indent_x": 56,
+    "base_indent_y": 28.7
+  },
+  "1080_scrambled": {
+    "base_x": 472,
+    "base_y": 256,
+    "base_indent_x": 52,
+    "base_indent_y": 28
+  },
+  "1200": {
+    "base_x": 528,
+    "base_y": 299,
+    "base_indent_x": 61,
+    "base_indent_y": 32.5
+  },
+  "1200_scrambled": {
+    "base_x": 532,
+    "base_y": 300,
+    "base_indent_x": 61,
+    "base_indent_y": 32.6
+  },
+  "blocks": [
+    {
+      "start": 1,
+      "indent_x": 1,
+      "lines": 7,
+      "1050_end_x": 1160,
+      "1080_end_x": 1290,
+      "1200_end_x": 1335
+    },
+    {
+      "start": 9,
+      "indent_x": 1,
+      "lines": 4,
+      "1050_end_x": 1200,
+      "1080_end_x": 1330,
+      "1200_end_x": 1375
+    }
+  ],
+  "lines": [
+    {
+      "indent_x": 0,
+      "1050_end_x": 820,
+      "1080_end_x": 940,
+      "1200_end_x": 935
+    },
+    {
+      "indent_x": 1,
+      "1050_end_x": 1160,
+      "1080_end_x": 1290,
+      "1200_end_x": 1335
+    },
+    {
+      "indent_x": 2,
+      "1050_end_x": 855,
+      "1080_end_x": 980,
+      "1200_end_x": 980
+    },
+    {
+      "indent_x": 2,
+      "1050_end_x": 1090,
+      "1080_end_x": 1225,
+      "1200_end_x": 1260
+    },
+    {
+      "indent_x": 3,
+      "1050_end_x": 975,
+      "1080_end_x": 1100,
+      "1200_end_x": 1120
+    },
+    {
+      "indent_x": 2,
+      "width": 30
+    },
+    {
+      "indent_x": 2,
+      "1050_end_x": 765,
+      "1080_end_x": 885,
+      "1200_end_x": 875
+    },
+    {
+      "indent_x": 1,
+      "width": 30
+    },
+    {},
+    {
+      "indent_x": 1,
+      "1050_end_x": 1055,
+      "1080_end_x": 1180,
+      "1200_end_x": 1210
+    },
+    {
+      "indent_x": 2,
+      "1050_end_x": 1200,
+      "1080_end_x": 1330,
+      "1200_end_x": 1375
+    },
+    {
+      "indent_x": 2,
+      "1050_end_x": 950,
+      "1080_end_x": 1055,
+      "1200_end_x": 1070
+    },
+    {
+      "indent_x": 1,
+      "width": 30
+    },
+    {
+      "indent_x": 0,
+      "width": 30
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: SaccadeLength ~ Expert + Scrambled + Linearity + (1 | Participant)
+   Data: eyetracking_df
+
+REML criterion at convergence: 2701.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.8270 -0.6037 -0.0691  0.4704  4.1302 
+
+Random effects:
+ Groups      Name        Variance Std.Dev.
+ Participant (Intercept) 592.6    24.34   
+ Residual                438.3    20.94   
+Number of obs: 298, groups:  Participant, 31
+
+Fixed effects:
+              Estimate Std. Error t value
+(Intercept)     97.678      7.800  12.522
+ExpertTrue      -1.142      9.329  -0.122
+ScrambledTrue   -5.288      2.653  -1.993
+LinearityB      -8.001      3.892  -2.056
+LinearityC      -3.604      3.895  -0.925
+LinearityD       7.952      3.854   2.063
+LinearityE       5.764      3.866   1.491
+
+Correlation of Fixed Effects:
+            (Intr) ExprtT ScrmbT LnrtyB LnrtyC LnrtyD
+ExpertTrue  -0.739                                   
+ScrambledTr -0.113  0.006                            
+LinearityB  -0.255  0.004 -0.017                     
+LinearityC  -0.262  0.004  0.041  0.508              
+LinearityD  -0.271  0.012  0.042  0.514  0.516       
+LinearityE  -0.261  0.009 -0.028  0.512  0.510  0.519
+> 
+> Anova(lmm)
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: SaccadeLength
+           Chisq Df Pr(>Chisq)    
+Expert     0.015  1    0.90260    
+Scrambled  3.974  1    0.04621 *  
+Linearity 23.583  4   9.68e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

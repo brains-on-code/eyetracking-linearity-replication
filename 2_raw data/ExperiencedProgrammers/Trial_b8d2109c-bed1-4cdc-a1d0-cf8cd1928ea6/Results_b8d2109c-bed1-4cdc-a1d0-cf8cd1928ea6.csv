@@ -1,0 +1,12 @@
+Number;Snippet;Indentation;Result;Time;TimeOut;SubjectID
+0;InsertSort_scrambled;4;7543;153974;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+1;Rectangle;4;10025;93816;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+2;SignChecker;4;positive null;60338;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+3;Vehicle;4;10;52409;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+4;CheckIfLettersOnly_scrambled;4;Fehler No;98407;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+5;Student;4;26;17934;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+6;MoneyClass;4;1,40;32682;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+7;Calculation;4;8;41458;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+8;SumArray;4;23;30253;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+9;Street_scrambled;4;15;49004;False;b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6
+

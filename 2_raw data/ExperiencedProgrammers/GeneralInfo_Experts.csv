@@ -1,0 +1,20 @@
+Age,Age_Calc,Gender,Glasses,EyeProblems,Job,Education,JavaExperience,OverallExperienc,OtherLanguages,ClassMates,Logic,JavaKnowledge,LastTimeJava,ActualScreenWidth,ActualScreenHeight,Serious,Distract,Fun,EyeXScreenWidth,EyeXScreenHeight,SubjectID,Imported as
+1989,30,Male,No,No,Employee,Masters,3,15,"C, C++, Haskell",4,3,Project experience,Last month,1680,1050,Yes,No,Yes,1680,1050,6cd1b570-39e3-40c9-af95-f1c5d194a3c3,
+1981,38,Male,Yes,No,Employee,Masters,18,23,"Python, C, C++, Bash, R, Delphi, Common Lisp",5,3,Expert,Last month,1680,1050,Yes,No,Yes,1680,1050,2f8ddeb6-b79a-45c9-8382-ba5619d23ce8,
+1990,29,Male,No,No,Employee,Masters,8,10,"Python, Rust, Ada, C++",4,1,Project experience,More than 1 year ago,1920,1080,Yes,No,Yes,1920,1080,24aed847-17a0-4cf8-98e5-700acd0e937f,5
+1994,25,Male,Yes,No,Employee,Masters,6,16,"C, C#, Haskell, Python, JavaScript, Basic, SQL, HTML, CSS",3,1,Regular use,Last year,1920,1080,Yes,No,Yes,1920,1080,3319c524-4bdc-40ef-b2f4-5e48dab9e26a,7
+1990,29,Male,No,No,Employee,Masters,6,6,python,4,2,Regular use,Last month,1920,1080,Yes,No,No,2880,1620,5f111f97-534c-490e-b765-d0074bfcb44c,
+1981,38,Male,No,No,Employee,PhD,15,15,"C#, Python",4,2,Project experience,Last year,1920,1080,Yes,No,Yes,1920,1080,d4aecdc3-443d-4714-9823-96da7d959723,
+1989,30,Female,Yes,Ja,Employee,Masters,2,10,"Python, Javascript, ",4,4,Basic knowledge,More than 5 years ago,1920,1080,Yes,No,Yes,2880,1620,baaa7f91-e49f-40a4-912d-7579b5ecbb1e,
+1991,28,Male,No,No,Employee,Masters,5,7,"Python, ",4,2,Regular use,Last month,1920,1080,Yes,No,Yes,1920,1080,b1146e7b-9442-43af-b12a-e24133f57cb5,
+1990,29,Male,No,No,Employee,Masters,2,12,"Python, NodeJS, C++",3,1,Regular use,Last month,1920,1080,Yes,No,Yes,1920,1080,582108f0-2b7a-4599-a3aa-afb5899b0da8,8
+1979,40,Male,Yes,No,Employee,PhD,20,30,"C, C++, Python",5,2,Regular use,Last year,1920,1080,Yes,No,Yes,1920,1080,8b56a1da-6053-406d-ac42-d121961a03c1,
+1991,28,Male,No,No,Employee,Masters,1,8,"C++, Python",4,2,Basic knowledge,More than 5 years ago,1920,1200,Yes,No,Yes,2880,1800,1e492759-8413-401e-aa94-3159801aea94,
+1991,28,Male,No,No,Employee,Masters,8,9,"Python, C++, C, JavaScript, PHP",5,2,Expert,Last month,1920,1200,Yes,No,Yes,2880,1800,9a12d88f-1977-4b3b-81a7-5fbf872d1888,
+1990,29,Male,No,No,Employee,Masters,5,6,Python,3,1,Basic knowledge,Last year,1920,1200,Yes,No,Yes,2880,1800,cf071081-c4bd-4abd-9d39-aa07855c7f56,
+1986,33,Male,No,No,Employee,Masters,1,14,"C, C++, Python, PHP, JS",3,1,Project experience,Last year,1920,1200,Yes,No,Yes,2880,1800,e3829974-423f-488a-b5b4-0f0eaebc1700,
+1993,26,Male,No,No,Graduate student,Masters,8,12,"Python, Scala, PHP, Ruby",4,2,Project experience,This week,1920,1200,Yes,No,Yes,2880,1800,128d315e-4840-4516-8c93-1c0f4d4e8d10,
+1988,31,Male,No,No,Employee,Masters,9,13,"R, Shell, LaTeX, JavaScript",4,1,Regular use,This week,1920,1200,Yes,No,Yes,2880,1800,03865400-92b2-48c1-b3b2-b9770e06a9e9,
+1993,26,Male,Yes,No,Employee,Masters,7,12,"Python, R, C#",4,3,Regular use,Last month,1920,1200,Yes,No,Yes,1920,1200,b8d2109c-bed1-4cdc-a1d0-cf8cd1928ea6,
+1997,22,Male,Yes,Yes,Graduate student,High school,4,5,"C++, C, C#, Python, JavaScript",4,1,Regular use,Last month,1920,1200,Yes,No,Yes,2880,1800,1f8beed4-69ae-46f5-bf29-bccf2570dd3c,
+1989,30,Male,Yes,No,Graduate student,Bachelor,1,8,Python,3,1,Basic knowledge,More than 5 years ago,1920,1200,Yes,No,Yes,2880,1800,07d16e43-4881-4d6a-a45f-40103dcbbccc,

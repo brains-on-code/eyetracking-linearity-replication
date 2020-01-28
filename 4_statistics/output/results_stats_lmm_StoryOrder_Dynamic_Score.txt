@@ -1,0 +1,45 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: StoryOrder_Dynamic_Score ~ Expert + Scrambled + Linearity + (1 |      Participant)
+   Data: eyetracking_df
+
+REML criterion at convergence: 3357.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.4262 -0.3952  0.0721  0.5255  1.9090 
+
+Random effects:
+ Groups      Name        Variance Std.Dev.
+ Participant (Intercept) 1340     36.60   
+ Residual                4778     69.12   
+Number of obs: 298, groups:  Participant, 31
+
+Fixed effects:
+              Estimate Std. Error t value
+(Intercept)      1.008     15.364   0.066
+ExpertTrue      -9.342     15.888  -0.588
+ScrambledTrue  -45.528      8.751  -5.202
+LinearityB     -65.330     12.848  -5.085
+LinearityC    -172.578     12.857 -13.423
+LinearityD     -58.130     12.719  -4.570
+LinearityE     -69.790     12.758  -5.470
+
+Correlation of Fixed Effects:
+            (Intr) ExprtT ScrmbT LnrtyB LnrtyC LnrtyD
+ExpertTrue  -0.653                                   
+ScrambledTr -0.188  0.011                            
+LinearityB  -0.428  0.008 -0.017                     
+LinearityC  -0.438  0.009  0.041  0.508              
+LinearityD  -0.453  0.022  0.042  0.514  0.516       
+LinearityE  -0.436  0.017 -0.028  0.513  0.511  0.518
+> 
+> Anova(lmm)
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: StoryOrder_Dynamic_Score
+             Chisq Df Pr(>Chisq)    
+Expert      0.3458  1     0.5565    
+Scrambled  27.0645  1  1.968e-07 ***
+Linearity 189.2037  4  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

@@ -1,0 +1,12 @@
+Number;Snippet;Indentation;Result;Time;TimeOut;SubjectID
+0;SignChecker_scrambled;4; ;59034;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+1;Student;4;26;12676;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+2;Street;4;15;10702;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+3;Calculation;4;8;38237;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+4;Rectangle;4;100,25;33511;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+5;Vehicle_scrambled;4;10;82789;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+6;InsertSort;4;7,5,4,3;131618;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+7;SumArray;4;23;21188;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+8;MoneyClass_scrambled;4;1,40;23166;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+9;CheckIfLettersOnly;4;No;32316;False;e3829974-423f-488a-b5b4-0f0eaebc1700
+

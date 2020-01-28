@@ -1,0 +1,12 @@
+Number;Snippet;Indentation;Result;Time;TimeOut;SubjectID
+0;SumArray;4;23;47048;False;c28e1675-e087-433c-838a-3fb388ae4a96
+1;Street_scrambled;4;"cjviij1" in zeile 19 (?) nicht definiert;235608;False;c28e1675-e087-433c-838a-3fb388ae4a96
+2;InsertSort;4;Fehler, Methode sort braucht auch einen Int Übergaveparameter;150173;False;c28e1675-e087-433c-838a-3fb388ae4a96
+3;CheckIfLettersOnly_scrambled;4;Fehler, Zeichen "whqle" nicht definiert.;155326;False;c28e1675-e087-433c-838a-3fb388ae4a96
+4;MoneyClass_scrambled;4;"1,40";90172;False;c28e1675-e087-433c-838a-3fb388ae4a96
+5;SignChecker;4;"positive" "null";134639;False;c28e1675-e087-433c-838a-3fb388ae4a96
+6;Calculation;4;8;159664;False;c28e1675-e087-433c-838a-3fb388ae4a96
+7;Vehicle;4;10;78298;False;c28e1675-e087-433c-838a-3fb388ae4a96
+8;Rectangle;4;"100""25";173062;False;c28e1675-e087-433c-838a-3fb388ae4a96
+9;Student;4;25;61359;False;c28e1675-e087-433c-838a-3fb388ae4a96
+

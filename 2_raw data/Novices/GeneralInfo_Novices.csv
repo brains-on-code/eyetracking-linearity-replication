@@ -1,0 +1,13 @@
+Age,Age_Calc,Gender,Glasses,EyeProblems,Job,Education,Semester,FreeTime,SideJob,JavaExperience,OverallExperienc,OtherLanguages,ClassMates,Logic,JavaKnowledge,LastTimeJava,ActualScreenWidth,ActualScreenHeight,Serious,Distract,Fun,EyeXScreenWidth,EyeXScreenHeight,SubjectID
+1999,20,Male,No,No,Student,High school,1,3,No,8,6,,3,2,Project experience,This week,1920,1200,Yes,No,Yes,2400,1500,44fcc483-8046-4252-a6ce-4a98002485f2
+1996,23,Female,Yes,Yes,Student,Bachelor,2,3,StudentAssistant,1,2,,4,1,Basic knowledge,This week,1680,1050,Yes,No,Yes,1680,1050,6fdcd858-9bb9-4a9c-a9cb-9bd496fedc4f
+1998,21,Male,No,Yes,Student,High school,3,5,No,3,3,Haskell,3,1,Basic knowledge,Last month,1920,1200,Yes,No,Yes,1920,1200,c28e1675-e087-433c-838a-3fb388ae4a96
+1996,23,Male,No,No,Student,High school,5,10,StudentAssistant,3,3,"Python, C++, C",3,1,Project experience,This week,1920,1080,Yes,No,Yes,2880,1620,0fed8025-1d6e-4f7c-bd8d-9900a76adc2b
+1996,23,Female,No,No,Student,Bachelor,4,0,No,0,1,"C++, R, GAP",3,1,Basic knowledge,This week,1920,1200,Yes,No,Yes,1920,1200,e77600cd-70c0-4e80-8e68-5469338260ff
+2000,19,Male,No,No,Student,High school,1,3,No,1,1,Heskell,2,2,Basic knowledge,This week,1920,1200,Yes,No,Yes,2400,1500,fb8288ed-83a0-4e36-aff5-8291e77606be
+2000,19,Male,No,No,Student,High school,1,2,Others,4,5,"JavaScript, PHP, C",4,1,Regular usage,This week,1920,1200,Yes,No,Yes,2400,1500,49b9b7d0-2934-45fc-8154-73d6a8106e2a
+1999,20,Male,No,No,Student,High school,4,5,No,6,6,"C,C++,Python,Fortran,Lua",3,1,Project experience,This week,1680,1050,Yes,Yes,Yes,1680,1050,a6710f7d-2722-4d62-a3ee-2a7eba1ace4a
+2000,19,Male,Yes,Yes,Student,High school,1,2,No,3,4,,3,1,Basic knowledge,This week,1920,1200,Yes,No,Yes,1920,1200,9cf666e2-cc71-45fd-b53e-30a8759c5dde
+1994,25,Female,No,No,Student,Bachelor,3,5,Employee,2,2,,3,1,Project experience,This week,1680,1050,Yes,No,Yes,1680,1050,4b43c5df-62cc-43ee-ac12-cb8dc212cdc1
+1994,25,Male,No,No,Student,Bachelor,4,0,Intern,1,2,"Python, C#",3,1,Project experience,Last year,1680,1050,Yes,No,Yes,1680,1050,7a9c6069-665e-4206-aa1c-6d94e711b665
+1999,20,Male,Yes,No,Student,High school,4,4,StudentAssistant,4,4,C# C HTML,4,1,Project experience,This week,1680,1050,Yes,No,Yes,1680,1050,b9872ee6-5048-4815-856a-44813a7d8adc

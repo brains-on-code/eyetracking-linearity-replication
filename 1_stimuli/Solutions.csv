@@ -1,0 +1,21 @@
+Snippet;Solution
+Calculation;8
+Calculation_scrambled;8
+CheckIfLettersOnly;No
+CheckIfLettersOnly_scrambled;No
+InsertSort;7543
+InsertSort_scrambled;7543
+MoneyClass;1,40
+MoneyClass_scrambled;1,40
+Rectangle;"100.0 25.0"
+Rectangle_scrambled;"100.0 25.0"
+SignChecker;"positive null"
+SignChecker_scrambled;Error. check() is not defined.
+Street;15
+Street_scrambled;Error. Cjviij1 is not defined.
+Student;26
+Student_scrambled;26
+SumArray;23
+SumArray_scrambled;23
+Vehicle;10
+Vehicle_scrambled;10
