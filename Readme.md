@@ -6,11 +6,11 @@ This repository contains all stimuli and source code snippets necessary to repli
 
 **Background:** The way how programmers comprehend source code depends on several factors, some depend on the source code itself, others on the programmer. Recent studies showed that novice programmers tend to read source code more like natural language text, whereas experts tend to follow the program execution flow. But, it is unknown how the linearity of source code and the comprehension strategy influence programmers' linearity of reading order.
 
-**Objective:** Our overall objective is to replicate two previous studies with the aim to additionally provide empirical evidence on the influencing effects of linearity of source code and programmers' comprehension strategy on linearity of reading order.
+**Objective:** We replicate two previous studies with the aim to additionally provide empirical evidence on the influencing effects of linearity of source code and programmers' comprehension strategy on linearity of reading order.
 
 **Methods:** To understand the effects of linearity of source code on reading order, we conducted a non-exact replication of studies by Busjahn et al. and Peachock et al., which compared the reading order of novice and expert programmers. Like the original studies, we used an eye tracker to record the eye movements of participants (12 novice and 19 experienced programmers).
 
-**Results:** In line with Busjahn et al., we found that expertise modulates the reading behavior of participants. However, the linearity of source code has an even stronger effect on reading order than expertise, whereas the comprehension strategy has a minor effect.
+**Results:** In line with Busjahn et al. (but different than Peachock et al.), we found that expertise modulates the reading behavior of participants. However, the linearity of source code has an even stronger effect on reading order than expertise, whereas the comprehension strategy has a minor effect.
 
 **Implications:** Our results demonstrate that studies on the reading behavior of programmers must carefully select source code snippets to control the influence of confounding factors. Furthermore, we identify a need for further studies into how programmers should structure source code to align it with their natural reading behavior to ease program comprehension.
 
