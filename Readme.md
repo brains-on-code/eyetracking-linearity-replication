@@ -2,6 +2,8 @@
 
 This repository contains all stimuli and source code snippets necessary to replicate our study. In addition, we provide acquired raw data, eye-tracking analysis scripts, and the statistical analysis.
 
+Paper: Norman Peitek, Janet Siegmund und Sven Apel, *What Drives the Reading Order of Programmers? An Eye Tracking Study*, International Conference on Program Comprehension, 2020 ([preprint](https://www.se.cs.uni-saarland.de/publications/docs/PSA20.pdf), [digital library](https://dl.acm.org/doi/10.1145/3387904.3389279))
+
 ## Paper Abstract
 
 **Background:** The way how programmers comprehend source code depends on several factors, including the source code itself and the programmer. Recent studies showed that novice programmers tend to read source code more like natural language text, whereas experts tend to follow the program execution flow. But, it is unknown how the *linearity of source code* and the comprehension strategy influence programmers' *linearity of reading order*.
@@ -13,10 +15,6 @@ This repository contains all stimuli and source code snippets necessary to repli
 **Results:** In line with Busjahn et al. (but different from Peachock et al.), we found that experience modulates the reading behavior of participants. However, the linearity of source code has an even stronger effect on reading order than experience, whereas the comprehension strategy has a minor effect.
 
 **Implications:** Our results demonstrate that studies on the reading behavior of programmers must carefully select source code snippets to control the influence of confounding factors. Furthermore, we identify a need for further studies on how programmers should structure source code to align it with their natural reading behavior to ease program comprehension.
-
-## Preprint
-
-[PDF (1MB)](https://www.se.cs.uni-saarland.de/publications/docs/PSA20.pdf)
 
 ## Replication Package
 
