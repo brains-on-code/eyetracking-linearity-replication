@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use our data or replication package, please cite it as below."
+authors:
+- family-names: "Peitek"
+  given-names: "Norman"
+  orcid: "https://orcid.org/0000-0001-7828-4558"
+- family-names: "Siegmund"
+  given-names: "Janet"
+  orcid: "https://orcid.org/0000-0002-5815-266X"
+- family-names: "Apel"
+  given-names: "Sven"
+  orcid: "https://orcid.org/0000-0003-3687-2233"
+title: "What Drives the Reading Order of Programmers? An Eye Tracking Study"
+version: 1.0.0
+doi: 10.1145/3387904.3389279
+date-released: 2020-07-13
+url: "https://github.com/brains-on-code/eyetracking-linearity-replication"
+preferred-citation:
+  type: proceedings
+  authors:
+  - family-names: "Peitek"
+    given-names: "Norman"
+    orcid: "https://orcid.org/0000-0001-7828-4558"
+  - family-names: "Siegmund"
+    given-names: "Janet"
+    orcid: "https://orcid.org/0000-0002-5815-266X"
+  - family-names: "Apel"
+    given-names: "Sven"
+    orcid: "https://orcid.org/0000-0003-3687-2233"
+  doi: "10.1145/3387904.3389279"
+  conference: "International Conference on Program Comprehension (ICPC)"
+  month: 5
+  start: 342 # First page number 
+  end: 353 # Last page number
+  title: "What Drives the Reading Order of Programmers? An Eye Tracking Study"
+  year: 2020
